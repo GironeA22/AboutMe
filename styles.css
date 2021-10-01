@@ -230,3 +230,98 @@ table {
     font-weight: bold;
     text-decoration: underline;
 }
+
+.avenged {
+    position: absolute;
+    top: 2em;
+    left: 0em;
+    width: 260px;
+    height: 100px;
+}
+
+.starset {
+    position: absolute;
+    top: 6em;
+    left: 0em;
+    width: 260px;
+    height: 100px;
+}
+
+.skillet {
+    position: absolute;
+    top: 10em;
+    left: 0em;
+    width: 260px;
+    height: 100px;
+}
+
+.lofigirl {
+    position: absolute;
+    top: 14em;
+    left: 0em;
+    width: 260px;
+    height: 150px;
+}
+
+.sakura {
+    position: absolute;
+    top: 19em;
+    left: 0em;
+    width: 260px;
+    height: 150px;
+}
+
+.tech {
+    background-color: #662E9B;
+    position: absolute;
+    width: 280px;
+    height: 510px;
+    left: 1600px;
+    top: 650px;
+    color: #00bd9d;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.xbox {
+position: absolute;
+top: 2em;
+left: 1em;
+width: 100px;
+height: 100px;
+}
+
+.switch {
+position: absolute;
+top: 2em;
+left: 5em;
+width: 100px;
+height: 100px;
+}
+
+.oculus {
+position: absolute;
+top: 6em;
+left: 0em;
+width: 275px;
+height: 100px;
+}
+
+.wii {
+position: absolute;
+top: 8em;
+left: 1em;
+width: 200px;
+height: 200px;
+}
+
+.ps2 {
+position: absolute;
+top: 13em;
+left: .5em;
+width: 250px;
+height: 100px;
+}
