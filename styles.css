@@ -1,0 +1,232 @@
+body {
+    background-color: #04030F
+}
+
+table {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid red;
+}
+
+.top {
+    background-color: #662E9B;
+    width: 98.5vw;
+    height: 200px;
+    color: #00bd9d;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.pets {
+    background-color: #662E9B;
+    width: 15vw;
+    height: 925px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.ares {
+    color: #00bd9d;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    position: absolute;
+    top: 8em;
+    left: 4em;
+}
+
+.rose {
+    color: #00bd9d;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    position: absolute;
+    top: 20em;
+    left: 4em;
+}
+
+.img {
+    position: absolute;
+    width: 200px;
+    height: 250px;
+    left: 75px;
+    top: 335px;
+}
+
+.rosepic {
+    position: absolute;
+    width: 200px;
+    height: 250px;
+    top: 750px;
+    left: 75px;
+}
+
+.bio {
+    position: absolute;
+    width: 1250px;
+    height: 507px;
+    left: 333px;
+    top: 208px;
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 55px;
+    line-height: 80px;
+    text-align: center;
+    
+    color: #FFFFFF;    
+}
+
+.games {
+    background-color: #662E9B;
+    position: absolute;
+    width: 450px;
+    height: 258px;
+    left: 330px;
+    top: 900px;
+    overflow-x: scroll;
+    color: #00bd9d;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.genshin {
+    position: absolute;
+    top: 80px;
+    left: 1em;
+    width: 200px;
+    height: 72px;
+}
+
+.smash {
+    position: absolute;
+    top: 80px;
+    left: 8em;
+    width: 200px;
+    height: 72px;
+}
+
+.fallout {
+    position: absolute;
+    top: 80px;
+    left: 15em;
+    width: 200px;
+    height: 72px;
+}
+
+.zelda {
+    position: absolute;
+    top: 80px;
+    left: 22em;
+    width: 200px;
+    height: 72px;
+}
+
+.borderlands {
+    position: absolute;
+    top: 45px;
+    left: 29em;
+    width: 200px;
+    height: 150px;
+}
+
+.mario {
+    position: absolute;
+    top: 80px;
+    left: 36em;
+    width: 200px;
+    height: 100px;
+}
+
+.beatsaber {
+    position: absolute;
+    top: 80px;
+    left: 43em;
+    width: 250px;
+    height: 100px;
+}
+
+.cod {
+    position: absolute;
+    top: 80px;
+    left: 52em;
+    width: 200px;
+    height: 100px;
+}
+
+.anime {
+    background-color: #662E9B;
+    position: absolute;
+    width: 450px;
+    height: 258px;
+    left: 800px;
+    top: 900px;
+    overflow-x: scroll;
+    color: #00bd9d;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.steins {
+    position: absolute;
+    top: 50px;
+    left: 1em;
+    width: 200px;
+    height: 100px;
+}
+
+.sao {
+    position: absolute;
+    top: 80px;
+    left: 8em;
+    width: 200px;
+    height: 100px;
+}
+
+.slime {
+    position: absolute;
+    top: 40px;
+    left: 15em;
+    width: 200px;
+    height: 175px;
+}
+
+.tanya {
+    position: absolute;
+    top: 80px;
+    left: 22em;
+    width: 200px;
+    height: 100px;
+}
+
+.music {
+    background-color: #662E9B;
+    position: absolute;
+    width: 280px;
+    height: 400px;
+    left: 1600px;
+    top: 235px;
+    overflow-y: scroll;
+    color: #00bd9d;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
